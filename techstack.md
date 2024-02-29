@@ -4,13 +4,13 @@
 ohimors/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [NumPy](http://www.numpy.org/) – Data Science Tools
 - [Matplotlib](http://matplotlib.org) – Charting Libraries
-- [SciPy](http://www.scipy.org) – Data Science Tools
-- [Jupyter](http://jupyter.org) – Data Science Notebooks
-- [IPython](http://ipython.org/index.html) – Shells
-- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
 - [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- [IPython](http://ipython.org/index.html) – Shells
+- [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [NumPy](http://www.numpy.org/) – Data Science Tools
+- [SciPy](http://www.scipy.org) – Data Science Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -21,13 +21,13 @@ Full tech stack [here](/techstack.md)
 ohimors/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ohimors/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/ohimors/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|01/05/24 <br/>Report generated|
+|15<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -172,7 +172,7 @@ Full tech stack [here](/techstack.md)
 |:------|:------|:------|:------|:------|:------|
 |[praw](https://pypi.org/project/praw)|v2.0.0|02/05/14|Cameron Davidson-Pilon |BSD-2-Clause|N/A|
 |[pyzmq](https://pypi.org/project/pyzmq)|v13.1.0|06/07/13|Matthew Wampler-Doty |BSD-3-Clause|N/A|
-|[tornado](https://pypi.org/project/tornado)|v3.0.2|06/07/13|Matthew Wampler-Doty |Apache-2.0|[](https://github.com/advisories/GHSA-qppv-j76h-2rpx) (Moderate)<br/>[CVE-2023-28370](https://github.com/advisories/GHSA-hj3f-6gcp-jg8j) (Moderate)|
+|[tornado](https://pypi.org/project/tornado)|v3.0.2|06/07/13|Matthew Wampler-Doty |Apache-2.0|[CVE-2014-9720](https://github.com/advisories/GHSA-8vpw-mgpf-mpvv) (Moderate)<br/>[](https://github.com/advisories/GHSA-qppv-j76h-2rpx) (Moderate)<br/>[CVE-2023-28370](https://github.com/advisories/GHSA-hj3f-6gcp-jg8j) (Moderate)|
 
 <br/>
 <div align='center'>
