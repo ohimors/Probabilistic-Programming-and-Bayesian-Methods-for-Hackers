@@ -2,7 +2,7 @@ repo_name: ohimors/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 report_id: 4dba02406324cac820f1bbed781d1112
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:47:10+00:00'
+timestamp: '2024-02-29T18:41:53+00:00'
 requested_by: ohimors
 provider: github
 branch: master
@@ -191,6 +191,12 @@ tools:
   last_updated_by: Matthew Wampler-Doty
   last_updated_on: 2013-06-07 15:20:05.000000000 Z
   vulnerabilities:
+  - name: Tornado XSRF cookie allows side-channel attack against TLS (BREACH attack)
+    cve_id: CVE-2014-9720
+    cve_url: https://github.com/advisories/GHSA-8vpw-mgpf-mpvv
+    detected_date: Feb 3
+    severity: moderate
+    first_patched: 3.2.2
   - name: Tornado vulnerable to HTTP request smuggling via improper parsing of `Content-Length`
       fields and chunk lengths
     cve_id: 
